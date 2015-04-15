@@ -10,3 +10,13 @@ class gitam021355{
   }
 
 }
+
+class gitam021352{
+ 
+  void name(){
+
+   System.out.println("Am021352 Chen4sh");
+
+  }
+
+}
